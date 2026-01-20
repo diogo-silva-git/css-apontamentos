@@ -1,0 +1,10 @@
+ /* Class Selector */
+
+.example {
+    color: red;
+}
+/* Type Selector */
+
+div {
+  color: rgb(116, 96, 228);
+}
